@@ -1,0 +1,9 @@
+-------------------------
+Subject文华交易提示--信号BPK发出
+Id8
+From发送者姓名<WebStockWh8@wenhua.com.cn>
+To<2176298760@qq.com>
+Date2019-12-2023:20:08+08:00
+Content_text['模组名:M-SP主连_1分钟_TEST(1)\r\n模型名:TEST\r\n合约名:M-SP主连周期:1分钟\r\n23:20:01[运行日志]23:20:00(交易所时间):信号4信号BPK发出(组:无行号:3)\r\n\r\n\r\n']
+Content_html[]
+Attachments
